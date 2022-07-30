@@ -1,6 +1,6 @@
 ﻿div.PSourceLine
 {
-  color:red;
+  color:blue;
 }
 
 div.PSourceRunning
@@ -14,13 +14,6 @@ div.PSourceRunning
   width: 100px;
   color: red;
 }
-
-/*
-div.PSourceLine > div.PSourceRunning
-{
-  color: red;
-}
-*/
 
 div.PSourceCode
 {
