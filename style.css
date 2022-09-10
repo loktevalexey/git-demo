@@ -12,7 +12,7 @@ div.PSourceRunning
   left: 200px;
   top: 100px;
   width: 100px;
-  color: red;
+  color: rgb(0, 255, 34);
 }
 
 div.PSourceCode
