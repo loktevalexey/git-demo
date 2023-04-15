@@ -5,7 +5,6 @@ function Transform() {
 }
 
 Transform.prototype.reset = function() {
-
   this.m = [1,0,0,1,0,0];
   console.log(7);
 };
