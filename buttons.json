@@ -7,7 +7,7 @@
     "buttonCaption": "строка 22",
     "alertText": "я из лесу вышел был сильный мороз",
     "options": {
-      "color": "blue",
+      "color": "red",
       "align": "left",
       "test": 5
     }
