@@ -29,3 +29,5 @@ Transform.prototype.multiply = function(matrix) {
   this.m[4] = dx;
   this.m[5] = dy;
 };
+
+const aaa=new Transform();
