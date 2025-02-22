@@ -20,6 +20,8 @@ div.PSourceRunning
   color: rgb(199, 159, 29);
 }
 
+div.test { color: red; }
+
 div.PSourceCode
 {
   padding-top: 5px;
