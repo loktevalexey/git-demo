@@ -11,7 +11,7 @@ div.KSourceLine
 div.PSourceRunning
 {
 /*  background-color: rgb(255,150,150);*/
-  position: relative;
+  position: absolute;
   z-index: -1;
 /*  transition-duration: 2s;*/
   left: 200px;
