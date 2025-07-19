@@ -5,11 +5,12 @@
 
 div.KSourceLine
 {
+  color:red;
 }
 
 div.PSourceRunning
 {
-/*  background-color: rgb(255,150,150);*/
+  background-color: rgb(255,150,150);
   position: absolute;
   z-index: -1;
 /*  transition-duration: 2s;*/
