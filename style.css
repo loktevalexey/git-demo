@@ -1,11 +1,10 @@
 ﻿div.PSourceLine
 {
-  color:blue;
+  color:green;
 }
 
 div.KSourceLine
 {
-  color:red;
 }
 
 div.PSourceRunning
